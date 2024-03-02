@@ -7,4 +7,4 @@ This task involves implementing a linear regression model to predict the prices 
 
 Dataset:
 The dataset can be found at the following link:
-[House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
+[House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
